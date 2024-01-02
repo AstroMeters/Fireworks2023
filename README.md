@@ -45,3 +45,29 @@ You can also view (comprimed) video recordins in this [YouTube playlist](https:/
 
 ## Data processing
 
+
+## Spectra callibration
+
+For the conversion of pixel position to wavelength, the following equation was used:
+
+
+$$\theta := arctan2( px \times  pixelsize_m, L|m)$$
+
+$$wl := D_m \times sin(\theta) / order$$
+
+
+where:
+
+* $px$: Distance in pixels
+* $wl$: Output wavelength
+* $d_m$: Number of lines per mm on the diffraction grating
+* $L_m$: Distance of the diffraction grating from the sensor plane
+* $pixelsize_m$: Pixel size (pitch)
+* $order$: Desired order of the spectrum
+* $\theta": Difraction angle
+
+
+Calibration were done over measured/obtained values of setup. Then it was recalibrated over high-pressure sodium lamps. Calibration was validated with green (532 nm) laser. 
+
+>[!CAUTION]
+> Calibration should be improved/checked with some better callibration sources.

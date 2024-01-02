@@ -27,7 +27,7 @@ The setup was strategically placed in higher floors of tower-building in Prague 
 ## Aparature
 ![EOSR0971](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/b99c4376-7233-4b5c-962b-cb13943ac42c)
 
-The setup was assembled using equipment available to us, allowing the measurement to be conducted without the need for purchasing expensive gear.
+The setup was assembled using equipment available to us, allowing the measurement to be conducted without the need for purchasing expensive gear. This setup was chosen as "the best", with the idea that it could be simplified for futhure measurement based on this experiences.
 
 - **500/80 ED Telescope**: An optical device with an 80 mm lens diameter and 500 mm focal length, optimized for capturing clear, detailed images.
 - **Spectral Grating 100 lines per millimeter**: Separates light into individual spectral lines for chemical element identification.

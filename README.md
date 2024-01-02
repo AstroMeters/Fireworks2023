@@ -1,4 +1,5 @@
 # Project: Measurement of Fireworks Optical Spectra
+![EOSR0916_s](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0ded7bbc-ed8d-42df-afb6-dae9101b5f0a)
 
 Fireworks, while visually stunning, pose significant risks to the environment and human health. They release various chemicals, including heavy metals that can be toxic. This exposure can lead to health issues like respiratory problems and long-term health impacts.
 
@@ -16,6 +17,8 @@ Additionally, we aimed to identify any issues inherent in this approach and prop
 The setup was strategically placed in tower-building in Prague housing estate for optimal viewing and data capture. We anticipated capturing diverse spectra representing different chemical elements used in the publicly-availible fireworks.
 
 ## Aparature
+![EOSR0971](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/b99c4376-7233-4b5c-962b-cb13943ac42c)
+
 - **500/80 ED Telescope**: An optical device with an 80 mm lens diameter and 500 mm focal length, optimized for capturing clear, detailed images.
 - **Spectral Grating 100 lines per millimeter**: Separates light into individual spectral lines for chemical element identification.
 - **Chronos High-Speed Camera**: Records 1000-800 frames per second, important for capturing fast-moving pyrotechnic events.

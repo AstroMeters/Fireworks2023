@@ -51,16 +51,16 @@ You can also view (comprimed) video recordins in this [YouTube playlist](https:/
 For the conversion of pixel position to wavelength, the following equation was used:
 
 
-$$\theta := arctan2( px \times  pixelsize_m, L|m)$$
+$$\theta := arctan2( px \cdot  pixelsize_m , L_m)$$
 
-$$wl := D_m \times sin(\theta) / order$$
+$$wl := \dfrac{ D_m \cdot sin(\theta) }{ order }$$
 
 
 where:
 
 * $px$: Distance in pixels
 * $wl$: Output wavelength
-* $d_m$: Number of lines per mm on the diffraction grating
+* $D_m$: Number of lines per mm on the diffraction grating
 * $L_m$: Distance of the diffraction grating from the sensor plane
 * $pixelsize_m$: Pixel size (pitch)
 * $order$: Desired order of the spectrum

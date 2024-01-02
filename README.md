@@ -37,4 +37,4 @@ You can view the compressed video recordings in this [YouTube playlist](https://
 
 
 ## Project Status
-The project is currently processing data and preparing a detailed analysis of the spectra.
+The project is currently in early stage of data analysis.

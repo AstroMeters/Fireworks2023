@@ -1,4 +1,5 @@
-# Project: Measurement of Fireworks Optical Spectra
+# Project: Measurement of optical spectras from fireworks
+
 ![EOSR0916_s](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0ded7bbc-ed8d-42df-afb6-dae9101b5f0a)
 
 Fireworks, while visually stunning, pose significant risks to the environment and human health. They release various chemicals, including heavy metals that can be toxic. This exposure can lead to health issues like respiratory problems and long-term health impacts.

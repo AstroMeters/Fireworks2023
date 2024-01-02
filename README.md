@@ -45,6 +45,21 @@ You can also view (comprimed) video recordins in this [YouTube playlist](https:/
 
 ## Data processing
 
+### Data
+The high-speed Chronos camera, offering various data outputs, was used for the measurements. Most data were saved in RAW12 format, efficiently containing values of two nighbourght pixels in three bytes, minimizing unused space and network data flow. Recordings were immediately stored on a connected computer via NTP, using this efficient RAW format to optimize data storage and transfer time.
+
+> Data structure of 12RAW format
+> 
+> `[8-bits 1st pixel]`,`[last 4 bits of 1st pixel,  first 4 bits of 2nd pixel]`, `[last 8 bits of 2nd pixel]`
+
+Images from RAW12 were converted to 16-bit TIFF images using a Python script, making them compatible with many editors like ImageJ. The command used was `/pyraw2dng.py -M -w 1280 -l 1024 -p $raw_file $dng_files`.
+
+These images were converted to preview videos using FFMPEG (`ffmpeg -framerate 60 -i ${VID}/_%06d.tiff -vf "curves=all='0/0 0.1/0.3 1/1'" -codec:v libx264 -crf 18 -pix_fmt yuv420p ${VID}_export.mp4`) for fast and seamless viewing of videos. Output of ffmpeg is avialible in the mentioned youtube [playlist](https://www.youtube.com/playlist?list=PL3olITvRKy4xV_I5JRlAe6PY4d6_L131k).
+
+The RAW 16-bit TIFF images were subsequently used for more precise analysis and processing using Python 3 and the Jupyter Notebook environment. 
+
+### Processing steps
+
 
 ## Spectra callibration
 

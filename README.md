@@ -1,7 +1,7 @@
 # Project: Measurement of optical spectras from fireworks
 
 > [!NOTE]
-> The measerument was conducted during the New Year's Eve 2023. Project is currently in early stage of data analysis.
+> The first measerument was conducted during the New Year's Eve 2023. Project is currently in early stage of data analysis.
 
 ## Introduction
 

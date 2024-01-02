@@ -1,11 +1,11 @@
 # Project: Measurement of optical spectras from fireworks
 
-![EOSR0916_s](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0ded7bbc-ed8d-42df-afb6-dae9101b5f0a)
-
 Fireworks, while visually stunning, pose significant risks to the environment and human health. They release various chemicals, including heavy metals that can be toxic. This exposure can lead to health issues like respiratory problems and long-term health impacts.
 
 In addition to health risks, fireworks negatively impact air quality. High levels of airborne particles in the air are often recorded after fireworks shows, highlighting their significant effect. Unlike emissions from industrial processes or vehicles, 
 the control over these emissions is limited.
+
+![EOSR0916_s](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0ded7bbc-ed8d-42df-afb6-dae9101b5f0a)
 
 For more details on this issue, refer to these articles:
 * [ChmiBrno.org](https://chmibrno.org/blog/2023/12/27/vliv-odpalovani-zabavni-pyrotechniky-na-kvalitu-ovzdusi-shrnuti/) (in Czech).

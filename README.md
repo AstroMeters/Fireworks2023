@@ -41,7 +41,9 @@ The setup was assembled using equipment available to us, allowing to conduct mea
 
 
 The following images shows the attaching a diffraction grating to a 1.25" thread. Grating was screwed to end of a C-mount to 1.25" barrel adapter. It involves precisely positioning the grating within the adapter to ensure constant sensor-distance within the optical system.
-<img src="https://github.com/roman-dvorak/Fireworks2023/assets/5196729/c4ff3cd2-e0c2-44e5-9d8e-66ef24d8ffd8" height="300pt"/> <img src="https://github.com/roman-dvorak/Fireworks2023/assets/5196729/514a96e6-aef7-419b-b3b0-fe0772c6c94e" height="300pt"/> 
+
+
+<img src="https://github.com/roman-dvorak/Fireworks2023/assets/5196729/c4ff3cd2-e0c2-44e5-9d8e-66ef24d8ffd8" height="200pt"/> <img src="https://github.com/roman-dvorak/Fireworks2023/assets/5196729/514a96e6-aef7-419b-b3b0-fe0772c6c94e" height="200pt"/> 
 
 ## RAW data availability
 The RAW data, totaling around 110GB, are available upon request due to their large size. This data includes complete spectral information captured during the experiment.

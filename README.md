@@ -40,8 +40,7 @@ The setup was assembled using equipment available to us, allowing to conduct mea
 - **Computer with sufficient storage capacity**: The camera produces a large amount of data; a 6-second recording is approximately 7 GB. Data was immediately uploaded via network to the connected computer.
 
 
-The following images shows the attaching a diffraction grating to a 1.25" thread. Grating was screwed to end of a C-mount to 1.25" barrel adapter. It involves precisely positioning the grating within the adapter to ensure constant sensor-distance within the optical system.
-
+The following images shows the attaching of a diffraction grating to the camera. Grating was screwed to the end of a C-mount to 1.25" barrel adapter. It ensures constant sensor-distance within the optical system.
 
 <img src="https://github.com/roman-dvorak/Fireworks2023/assets/5196729/c4ff3cd2-e0c2-44e5-9d8e-66ef24d8ffd8" height="200pt"/> <img src="https://github.com/roman-dvorak/Fireworks2023/assets/5196729/514a96e6-aef7-419b-b3b0-fe0772c6c94e" height="200pt"/> 
 

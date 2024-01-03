@@ -20,6 +20,10 @@ For more details on this issue, refer to these articles:
 >[!NOTE]
 > This experiment was conducted based on a long-standing interest in the issue of New Year's fireworks in the Europe. It builds on previous [measurements of dust particles](https://wayback.webarchiv.cz/wayback/20220325020234/http://www.ujf.cas.cz/cs/novinky/Vedci-z-UJF-AV-CR-zmerili-znecisteni-atmosfery-novorocnimi-ohnostroji/) in the vertical atmospheric profile using ThunderFly drones, the development of the [TF-ATMON system](https://www.thunderfly.cz/tf-atmon.html) for atmospheric measurements, and discussions with meteorologists from CHMI and scientists from the Czech Academy of Sciences.
 
+>[!TIP]
+> If you want to view the measured spectra directly, you can view them in this [PDF document](media/merged.pdf) or [separate page](gallery.md) in the form of a Fireworks gallery. The results from the analysis will be placed [here](analysis.md).
+
+
 ## Experiment
 Our experiment conducted on New Year's Eve 2023 in Prague aimed to identify elements in fireworks using spectral analysis.
 The following goal of this experiment was to validate whether optical spectra of fireworks can be measured using this method, we also wanted to know what is needed for such measurements and what kind of results we might expect.
@@ -108,7 +112,7 @@ The second graph then shows the visible part of the measured spectrum. If there 
 # Fireworks gallery
 > [!TIP]
 > Due to larger amount of processed images spectra gallery is placed in own [document](gallery.md).
-> Or you can browse [PDF output](media/merged.pdf) of all analyzed measurements.
+> Or you can browse [PDF report](media/merged.pdf) of all analyzed measurements.
 
 
 ## Spectra callibration
@@ -152,6 +156,8 @@ Calibration was validated with green (532 nm) laser pointer.
 # Element recognisation in measured spectral profiles
 
 Estimation of elements from spectra is a critical part of this project. Specific elements are identified based on their unique spectral lines. This process involves comparing observed spectra against known spectral lines of various elements. By analyzing the position and intensity of these lines, it's possible to determine the composition of the substance being observed.
+
+**Description of the analysis of individual spectra and their elements is located in a separate document called [Analysis](analysis.md).**
 
 >[!CAUTION]
 >I currently do not have  this part of project implemented in any form. During exploring of availible options, I found it difficult to find an accessible spectrum catalog for this purpose. If you have any tips or ideas on how to solve this, I would appreciate any suggestions and comments.

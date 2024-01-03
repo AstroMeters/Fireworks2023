@@ -61,27 +61,27 @@ These images were converted to preview videos using FFMPEG (`ffmpeg -framerate 6
 
 The RAW 16-bit TIFF images were subsequently used for more precise analysis and processing using Python 3 and the Jupyter Notebook environment. 
 
-### Processing steps
+## Processing steps
 
-#### Selecting good frame
+#### 1. Selecting good frame
 The first step in the process involves manually selecting interesting frames. This is done by reviewing the preview videos and finding the corresponding frame in the form of a 16-bit TIFF image exported from the RAW12 format. During this selection, the visibility of individual spectra, their distinctness, correct brightness, and lack of overlap with other spectra or particles are assessed. The focus of the video is also a important aspect to consider.
 
-#### Importing intu jupyter notebook project
+#### 2. Importing intu jupyter notebook project
 The selected frame is then imported into a Jupyter Notebook by providing the absolute path to the image file and asseting this filename into `filename` variable. 
 
-#### Selecting interesting spectrum
+#### 3. Selecting interesting spectrum
 Subsequently, interactive sliders are used to select the spectrum of interest. These sliders adjust the position and direction of the line along which the spectrum is calculated. Settings include the starting point (x1, y1) of the line, its angle against the pixel matrix, length of the line, and the width of the area over which the sum of pixel values is calculated in the normal direction to the selected profile.
 
 The selected line is then dynamically visualized over image, including the display of intensity along the chosen profile.
 ![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/5f2ea1ac-e321-4cab-9f03-d3bda1fd8d71)
 
-#### Selecting source position
+#### 4. Selecting source position
 Next step is to local position of spectra source in frame.
 
 Next interactive slider is utilized to select the position of the zero pixel (the actual source of the spectrum) in the image. The selected position is immediately displayed above the intensity profile as a vertical line, allowing for precise and fast alignment of the spectrum's origin in the image.
 ![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/02abe01b-652c-40dc-8d27-fe901f62d9d5)
 
-#### Spectrum calculation
+#### 5. Spectrum calculation
 In the next step, the pixel position is converted into a wavelength using a predefined calibration.
 This process results in two graphs. The first graph displays the entire profile with the wavelength in the first order of the spectrum (note that the second order of the spectrum is also visible in the screenshot). The second graph shows only visible part of the spectrum, which is identical across all profiles.
 ![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0fa76737-6383-415f-bf42-80aeb7d3f275)

@@ -96,6 +96,11 @@ In the final step, the exported graphs are saved as `.png` images, and a PDF rep
 [![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/6caa9542-298b-4a28-89a2-adfae01138a6)](media/out_0_251_out.pdf)
 
 
+# Fireworks gallery
+> [!TIP]
+> Due to larger amount of processed images spectra gallery is placed in own [document](gallery.md)
+
+
 ## Spectra callibration
 
 For the conversion of pixel position to wavelength [nm], the following equation was used:

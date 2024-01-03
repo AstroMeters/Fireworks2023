@@ -54,7 +54,7 @@ The high-speed Chronos camera, offering various data outputs, was used for the m
 
 Images from RAW12 were converted to 16-bit TIFF images using a Python script, making them compatible with many editors like ImageJ. The command used was `/pyraw2dng.py -M -w 1280 -l 1024 -p $raw_file $dng_files`.
 
-These images were converted to preview videos using FFMPEG (`ffmpeg -framerate 60 -i ${VID}/_%06d.tiff -vf "curves=all='0/0 0.1/0.3 1/1'" -codec:v libx264 -crf 18 -pix_fmt yuv420p ${VID}_export.mp4`) for fast and seamless viewing of videos. Output of ffmpeg is avialible in the mentioned youtube [playlist](https://www.youtube.com/playlist?list=PL3olITvRKy4xV_I5JRlAe6PY4d6_L131k).
+These images were converted to preview videos using FFMPEG (`ffmpeg -framerate 60 -i ${VID}/_%06d.tiff -vf "curves=all='0/0 0.1/0.3 1/1'" -codec:v libx264 -crf 18 -pix_fmt yuv420p ${VID}_export.mp4`) for fast and seamless viewing of videos. Output of ffmpeg is avialible in the mentioned youtube [playlist](https://www.youtube.com/playlist?list=PL3olITvRKy4xV_I5JRlAe6PY4d6_L131k). During the conversion of RAW frames to video, dark parts of the video were highligted using curves in ffmpeg. Therefore, these videos are not suitable for further analysis.
 
 The RAW 16-bit TIFF images were subsequently used for more precise analysis and processing using Python 3 and the Jupyter Notebook environment. 
 

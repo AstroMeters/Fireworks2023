@@ -97,23 +97,30 @@ In the final step, the exported graphs are saved as `.png` images, and a PDF rep
 
 ## Spectra callibration
 
-For the conversion of pixel position to wavelength, the following equation was used:
+For the conversion of pixel position to wavelength [nm], the following equation was used:
 
 
 $$\theta := arctan2( px \cdot  pixelsize_m , L_m)$$
 
-$$wl := \dfrac{ D_m \cdot sin(\theta) }{ order }$$
+$$wl := \dfrac{ D_m \cdot sin(\theta) }{ order } \cdot 10^9 $$
 
 
 where:
 
 * $px$: Distance in pixels
 * $wl$: Output wavelength
-* $D_m$: Number of lines per mm on the diffraction grating
+* $D_m$: Number of lines per m on the diffraction grating
 * $L_m$: Distance of the diffraction grating from the sensor plane
 * $pixelsize_m$: Pixel size (pitch)
 * $order$: Desired order of the spectrum
-* $\theta": Difraction angle
+* $\theta$: Difraction angle
+
+**Input values**
+| Parametrer | Value | Note |
+|-----|-------|-------|
+| $D_m$ | $1.0 \times 10^{5}$ | Number of lines per meter (100 lines/mm) |
+| $L_M$ | $0.0477$ | Distance between grating and sensor plane in m ($11.7 + 36 mm$) |
+| $pixelsize_m$ | $1.0 \times 10^{-5}$ | Pixel pitch in m |
 
 
 Calibration were done over measured/obtained values of setup. Then it was recalibrated over high-pressure sodium lamps.

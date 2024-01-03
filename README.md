@@ -87,6 +87,11 @@ This process results in two graphs. The first graph displays the entire profile 
 ![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0fa76737-6383-415f-bf42-80aeb7d3f275)
 
 
+#### 6. PDF output
+In the final step, the exported graphs are saved as `.png` images, and a PDF report is created, which can be seen in the following image. 
+![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/6caa9542-298b-4a28-89a2-adfae01138a6)
+
+
 ## Spectra callibration
 
 For the conversion of pixel position to wavelength, the following equation was used:
@@ -108,7 +113,11 @@ where:
 * $\theta": Difraction angle
 
 
-Calibration were done over measured/obtained values of setup. Then it was recalibrated over high-pressure sodium lamps. Calibration was validated with green (532 nm) laser. 
+Calibration were done over measured/obtained values of setup. Then it was recalibrated over high-pressure sodium lamps.
+
+Calibration was validated with green (532 nm) laser pointer. 
+![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/678e22ce-9dbc-41e7-883b-c5792ec0ee97)
+
 
 >[!CAUTION]
 > Calibration should be improved/checked with some better callibration sources.

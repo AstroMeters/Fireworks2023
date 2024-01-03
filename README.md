@@ -21,7 +21,7 @@ For more details on this issue, refer to these articles:
 > This experiment was conducted based on a long-standing interest in the issue of New Year's fireworks in the Europe. It builds on previous [measurements of dust particles](https://wayback.webarchiv.cz/wayback/20220325020234/http://www.ujf.cas.cz/cs/novinky/Vedci-z-UJF-AV-CR-zmerili-znecisteni-atmosfery-novorocnimi-ohnostroji/) in the vertical atmospheric profile using ThunderFly drones, the development of the [TF-ATMON system](https://www.thunderfly.cz/tf-atmon.html) for atmospheric measurements, and discussions with meteorologists from CHMI and scientists from the Czech Academy of Sciences.
 
 >[!TIP]
-> If you want to view the measured spectra directly, you can view them in this [PDF document](media/merged.pdf) or [separate page](gallery.md) in the form of a Fireworks gallery. The results from the analysis will be placed [here](analysis.md).
+> **If you want to view the measured spectra directly, you can view them in this [PDF document](media/merged.pdf) or [separate page](gallery.md) in the form of a Fireworks gallery. The results from the analysis will be placed [here](analysis.md).**
 
 
 ## Experiment

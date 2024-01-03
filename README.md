@@ -123,6 +123,15 @@ Calibration was validated with green (532 nm) laser pointer.
 > Calibration should be improved/checked with some better callibration sources.
 
 
+# Element recognisation in measured spectral profiles
+
+Estimation of elements from spectra is a critical part of this project. Specific elements are identified based on their unique spectral lines. This process involves comparing observed spectra against known spectral lines of various elements. By analyzing the position and intensity of these lines, it's possible to determine the composition of the substance being observed.
+
+>[!CAUTION]
+>I currently do not have  this part of project implemented in any form. During exploring of availible options, I found it difficult to find an accessible spectrum catalog for this purpose. If you have any tips or ideas on how to solve this, I would appreciate any suggestions and comments.
+>
+>Also, I am still unsure whether the resolution and quality of the measured spectra allow for such an analysis.
+
 
 # Observed problems
 During the measurement process, the following problems of this approach were identified:

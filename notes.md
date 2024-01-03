@@ -20,9 +20,12 @@ PLOT=${PLOT%, }
 ```
 
 Spustit gnuplot
-# Vytvoření Gnuplot skriptu
+
+```gnuplot
 set datafile separator ','
 set title 'Firework zoo'
 set xlabel 'Wavelength'
 set ylabel 'Intensity'
 set xrange [400:800]
++ vložit obsah PLOT promenne
+```

@@ -91,9 +91,18 @@ This process results in two graphs. The first graph displays the entire profile 
 ![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0fa76737-6383-415f-bf42-80aeb7d3f275)
 
 
-#### 6. PDF output
+#### 6. PDF analysis report
 In the final step, the exported graphs are saved as `.png` images, and a PDF report is created, which can be seen in the following image. 
 [![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/6caa9542-298b-4a28-89a2-adfae01138a6)](media/merged.pdf)
+
+**What does the PDF report contain?**
+The title includes the name (including the full path) of the file that was analyzed. The line below it contains the configuration used for this generation. With this information, an identical output can be generated.
+
+The first image shows a preview of the frame with the highlighted line (profile) along which the spectrum analysis was conducted. The line is as wide as the width of the analyzed strip.
+
+The first graph displays the intensity profile along to the shown profile/line.
+
+The second graph then shows the visible part of the measured spectrum. If there are two curves in the figure, it means that the recording includes both the first order of the spectrum and the minus first order. This can be recognized by the number next to the wavelength label in parentheses.
 
 
 # Fireworks gallery

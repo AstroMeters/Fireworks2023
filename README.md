@@ -53,7 +53,7 @@ You can also view (comprimed) video recordins in this [YouTube playlist](https:/
 ## Data processing
 
 ### Data
-The high-speed Chronos camera, offering various data outputs, was used for the measurements. Most data were saved in RAW12 format, efficiently containing values of two nighbourght pixels in three bytes, minimizing unused space and network data flow. Recordings were immediately stored on a connected computer via NTP, using this efficient RAW format to optimize data storage and transfer time.
+The high-speed Chronos camera, offering various data outputs, was used for the measurements. Most data were saved in RAW12 format, efficiently containing values of two nighbourght pixels in three bytes, minimizing unused space and network data flow. Recordings were immediately stored on a connected computer via NFS, using this efficient RAW format to optimize data storage and transfer time.
 
 > Data structure of 12RAW format
 > 

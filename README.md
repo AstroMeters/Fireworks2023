@@ -89,7 +89,7 @@ This process results in two graphs. The first graph displays the entire profile 
 
 #### 6. PDF output
 In the final step, the exported graphs are saved as `.png` images, and a PDF report is created, which can be seen in the following image. 
-![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/6caa9542-298b-4a28-89a2-adfae01138a6)
+[![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/6caa9542-298b-4a28-89a2-adfae01138a6)](media/out_0_251_out.pdf)
 
 
 ## Spectra callibration

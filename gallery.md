@@ -1,3 +1,33 @@
 # Fireworks Zoo
 
 ![obrazek](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/aff29723-75a7-416a-a16f-23f8a0ebca3c)
+
+
+
+![out_0_678_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/45c83137-8473-48ac-973d-34942cabdab5)
+![out_0_649_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/e8fe74c6-84d1-4b65-b716-2c6c599dc594)
+![out_0_546_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/a90827e7-31bc-48e3-9241-149359363d96)
+![out_0_321_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/195d4d1d-3dda-45b2-85fa-d4f8c11a0ca4)
+![out_0_395_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/1a0c692c-b296-4578-99dc-aada6a0e0b1c)
+![out_0_394_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/1194f757-0880-4eae-8006-87484ab1d4eb)
+![out_0_736_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0756574b-779b-47b3-94a2-d138c0089ec6)
+![out_0_522_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/1dbf44e9-4eaa-435d-8bcb-0fd04471bb4f)
+![out_0_521_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/154122a7-c52c-4b3d-b011-21396563989f)
+![out_0_396_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/cddd3575-b979-49b3-8d5b-97935b13a9a6)
+![out_0_786_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/b7d0c69d-9ca3-4d02-8213-726552844542)
+![out_0_699_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/0abdfc8d-cc53-49aa-8db0-9741a212ace0)
+![out_0_646_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/f782197b-6584-4fb8-965b-bbb3ef92df14)
+![out_0_639_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/1bbf020e-00db-45df-bb11-b4cae61cefb9)
+![out_0_638_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/61c66933-6425-4f5c-83b7-a0a2b1e7e1b8)
+![out_0_354_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/47c330f0-6c87-4ead-8c2a-c297a541229f)
+![out_0_470_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/c69874b1-93b4-467b-9ad8-f4a927e2d723)
+![out_0_363_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/8cbb0749-b693-4929-bd2f-77991624eb15)
+![out_0_324_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/2a6e6259-8fa7-49b5-9200-9bdfd504b2a1)
+![out_0_251_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/9e0d3d9a-95eb-43a2-a19a-a2e4ed325dbc)
+![out_0_465_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/c8141330-4d4a-4600-a123-216a7eedc75e)
+![out_0_328_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/93a80ff8-fc4a-4dbe-b732-10d4a245dc28)
+![out_0_668_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/b08c692b-4ca9-4ce8-8ae2-7430c72b09b1)
+![out_0_512_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/ebba0f5a-adb2-47fa-8bf1-4675df9a42f6)
+![out_0_288_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/7c06ca70-abb6-43a3-b784-930418f84cb9)
+![out_0_186_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/040177a8-108c-4de9-8942-fc12405d14b5)
+![out_0_29_spectrum_limit](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/59d54c70-a4b3-40e6-b319-692f7636d985)

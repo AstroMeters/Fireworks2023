@@ -30,11 +30,11 @@ The setup was strategically placed in higher floors of tower-building in Prague 
 ## Used aparature
 ![EOSR0971](https://github.com/roman-dvorak/Fireworks2023/assets/5196729/b99c4376-7233-4b5c-962b-cb13943ac42c)
 
-The setup was assembled using equipment available to us, allowing the measurement to be conducted without the need for purchasing expensive gear. This setup was chosen as "the best", with the idea that it could be simplified for futhure measurement based on this experiences.
+The setup was assembled using equipment available to us, allowing to conduct measurement without the need for purchasing expensive gear. This setup was chosen as "the best", with the idea that it could be simplified for futhure measurement based on this experiences (check observed problems at end of this document).
 
-- **500/80 ED Telescope**: An optical device with an 80 mm lens diameter and 500 mm focal length, optimized for capturing clear, detailed images.
-- **Spectral Grating 100 lines per millimeter**: Separates light into individual spectral lines for chemical element identification.
-- **Monochromatic High-Speed Camera**: Records 1000-800 frames per second, important for capturing fast-moving pyrotechnic events.
+- **80/500 ED Telescope**: An optical device with an 80 mm lens diameter and 500 mm focal length, optimized for capturing clear, detailed images.
+- **Spectral Grating 100 lines/millimeter**: Separates light into individual spectral lines for chemical element identification ([SA-100](https://www.rspec-astro.com/star-analyser/)).
+- **Monochromatic High-Speed Camera**: Records 1000-800 frames per second, important for capturing fast-moving pyrotechnic events ([Chronos 1.4 monochrome](https://www.krontech.ca/product/chronos-1-4-high-speed-camera/)).
 - **Tripod**: A sturdy tripod under the telescope allowing for quick aiming of the setup.
 - **Finder Scope**: A device for quickly aiming the telescope.
 - **Computer with sufficient storage capacity**: The camera produces a large amount of data; a 6-second recording is approximately 7 GB. Data was immediately uploaded via network to the connected computer.
